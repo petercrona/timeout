@@ -9,7 +9,7 @@ while minimizing impact from false positives.
 
 ## Try it
 
-`node index.js` - there are no dependencies.
+`node index.js` - there are no dependencies. This will run a simulation, no real network requests will be made.
 
 The IPs are generated from 192.168.0.1 and incrementing. So you should see `192.168.0.1 - 192.168.0.5` be banned, as the simulation goes as:
 
